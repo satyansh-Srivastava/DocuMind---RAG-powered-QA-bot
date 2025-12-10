@@ -1,0 +1,5 @@
+{
+  "name": "Documind - RAG Powered Assistant",
+  "description": "A minimalist, high-performance document analysis engine using Gemini 2.5. Features intelligent onboarding, instant parsing assurance, and expert-level adaptive chat.",
+  "requestFramePermissions": []
+}
